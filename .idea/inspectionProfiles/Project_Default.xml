@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asttokens" />
+          <option value="av" />
+          <option value="executing" />
+          <option value="ipython" />
+          <option value="ipython_pygments_lexers" />
+          <option value="jedi" />
+          <option value="matplotlib-inline" />
+          <option value="parso" />
+          <option value="prompt_toolkit" />
+          <option value="pure_eval" />
+          <option value="qwen-vl-utils" />
+          <option value="stack-data" />
+          <option value="tokenizers" />
+          <option value="traitlets" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
